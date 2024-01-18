@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Jeff Carron:
+
+- 🔭 I’m currently working as the Secondary STEM Consultant with the Simcoe Muskoka Catholic District School Board
+- 🌱 I’m currently learning all I can about coding, physical computing and artificial intelligence
+- 👯 I’m looking to collaborate on engaging students in STEM learning
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about STEM
+- 📫 How to reach me: jcarron@smcdsb.on.ca
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am a human ;)
